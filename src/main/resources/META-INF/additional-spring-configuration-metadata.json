@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "ffmpeg.path.ffplay",
+      "type": "java.lang.String",
+      "description": "Description for ffmpeg.path.ffplay."
+    },
+    {
+      "name": "ffmpeg.path.ffprobe",
+      "type": "java.lang.String",
+      "description": "Description for ffmpeg.path.ffprobe."
+    },
+    {
+      "name": "ffmpeg.path.ffmpeg",
+      "type": "java.lang.String",
+      "description": "Description for ffmpeg.path.ffmpeg."
+    }
+  ] }
